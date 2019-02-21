@@ -11,13 +11,13 @@ setupenv=false
 # Systems to build
 linux=true
 windows=true
-osx=true
+osx=false
 
 # Other Basic variables
 SIGNER=
 VERSION=
 commit=false
-url=https://github.com/lobstex-project/lobstex
+url=https://github.com/cyprella/lobstex
 proc=2
 mem=2000
 lxc=true
